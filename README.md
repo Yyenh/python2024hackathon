@@ -115,7 +115,7 @@ Members:
 2. Harshini Gunalan
 3. Vaisshnavy Jayasilan
 
-URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
+URL: https://github.com/Vaisshnavy12/The-Spice-Deciders-
 
 ## Squirrel Basement
 
