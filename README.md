@@ -97,7 +97,7 @@ URL: https://github.com/Darwisy09/python2024hackathon
 2. Yeoh Zhi Ee
 3. Yoon Ee Shyn
 
-URL:https://github.com/yennee331/royalmonkey.git
+URL: https://github.com/yennee331/royalmonkey.git
 
 ## Slackers
 
@@ -115,7 +115,7 @@ Members:
 2. Harshini Gunalan
 3. Vaisshnavy Jayasilan
 
-URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
+URL:https://github.com/Vaisshnavy12/The-Spice-Deciders-
 
 ## Squirrel Basement
 
